@@ -1,0 +1,16 @@
+<html>
+<head>
+<script>
+.body{
+background-color:aqua;
+}
+</script>
+<title>git tuts</title>
+</head>
+<body>
+<p></p working directory!!>
+</body>
+</html>
+
+<hello>
+sdgdfgdfgdfhfhg
